@@ -1,6 +1,8 @@
 #!/bin/bash
 
-mkdir jen
 df -h
 
+mkdir bmw
+
+pwd
 
